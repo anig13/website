@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <script src="script.js"></script>
+    <!--A comment <strong> <m-->
+    <h1 id="mainheading"><strong>My First Website</strong></h1>
+    <p>I made my first website using HTML and CSS on December 14 2024</p>
+
+    <p>Things I learned to add</p>
+    <ul>
+      <li>Bullet points</li>
+    </ul>
+
+    <ol>
+      <li>Numbered lists</li>
+    </ol>
+    <p> <em>I can also add pictures and links</em></p>
+    <img id= "image" src="https://tse1.mm.bing.net/th?id=OIP.ktWnwh3zlTaAT6O8xKPdwwHaFI&pid=Api&rs=1&c=1&qlt=95&w=150&h=104" />
+
+    <a href="https://kleki.com/"> KLEKI</a>
+  </body>
+</html>
